@@ -1,0 +1,9 @@
+Active: 0
+
+PlatformSets:
+ - ondemand-otrs7
+
+DeployOTRSBranch: master-internal
+
+DeployOTRSPackages:
+ - OTRSCodePolicy@master
